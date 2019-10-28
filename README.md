@@ -34,5 +34,5 @@ https://sheltered-coast-57791.herokuapp.com/
   
 ### Improvements
 
-* Improved on UI of landing page
+* Improve the UI of landing page
  
