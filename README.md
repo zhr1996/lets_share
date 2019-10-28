@@ -26,7 +26,7 @@ https://sheltered-coast-57791.herokuapp.com/
 
   * A user can create items after logged in.
   
-  * Later a user can edit or delete items.
+  * Later a user can edit or delete items he or she created.
   
 * Flash message
  
