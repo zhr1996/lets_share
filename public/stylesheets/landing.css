@@ -74,15 +74,15 @@ body {
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(https://res.cloudinary.com/yelpcampcloud/image/upload/c_scale,dpr_auto,f_auto,q_auto,w_auto/v1513517702/emvhOnb_qaqdwq.jpg);
+  background-image: url(https://res.cloudinary.com/dftq3mgvf/image/upload/v1572233603/clement-h-95YRwf6CNw8-unsplash_ehmnew.jpg);
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(https://res.cloudinary.com/yelpcampcloud/image/upload/c_scale,dpr_auto,f_auto,q_auto,w_auto/v1513519375/2LSMCmJ_gpvxnl.jpg);
+  background-image: url(https://res.cloudinary.com/dftq3mgvf/image/upload/v1572233649/icons8-team-seDjj4dmC9s-unsplash_tc9kjd.jpg);
   animation-delay: 30s; 
 }
 .slideshow li:nth-child(5) { 
-  background-image: url(https://res.cloudinary.com/yelpcampcloud/image/upload/c_scale,dpr_auto,f_auto,q_auto,w_auto/v1513519484/TVGe0Ef_el9ecd.jpg);
+  background-image: url(https://res.cloudinary.com/dftq3mgvf/image/upload/v1572233702/aaron-burden-xG8IQMqMITM-unsplash_cboila.jpg);
   animation-delay: 40s; 
 }
 
