@@ -36,7 +36,3 @@ https://sheltered-coast-57791.herokuapp.com/
 
 * Improved on UI of landing page
  
-
-This a website for second hand market. 
-
-You can take a look at the website here : https://sheltered-coast-57791.herokuapp.com/
