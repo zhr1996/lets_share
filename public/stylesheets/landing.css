@@ -67,10 +67,10 @@ body {
 }
 
 .slideshow li:nth-child(1) { 
-  background-image: url(https://res.cloudinary.com/yelpcampcloud/image/upload/c_scale,dpr_auto,f_auto,q_auto,w_auto/v1513517509/K3mPv14_epb3ia.jpg) 
+  background-image: url(https://res.cloudinary.com/dftq3mgvf/image/upload/v1572236033/andrej-lisakov-3A4XZUopCJA-unsplash_riuwcq.jpg) 
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(https://res.cloudinary.com/yelpcampcloud/image/upload/c_scale,dpr_auto,f_auto,q_auto,w_auto/v1513517629/SBEmFpv_vd8gp6.jpg);
+  background-image: url(https://res.cloudinary.com/dftq3mgvf/image/upload/v1572236067/pierre-chatel-innocenti-pxoZSTdAzeU-unsplash_sxvavm.jpg);
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
